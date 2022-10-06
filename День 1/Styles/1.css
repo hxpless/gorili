@@ -1,0 +1,10 @@
+﻿
+#photo {
+width: calc(100% + 50px);
+width: calc(100% - 20px);
+width: calc(100%/3);
+height: calc(20px * 6);
+transform: rotate(calc(3turn + 90deg));
+font-size: (width: calc(100%/20 + 20px));	
+padding: calc(100% * 2);
+}

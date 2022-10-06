@@ -1,0 +1,67 @@
+﻿html{
+	background-color: #ccffff;
+}
+div{
+	background-color: #ffccff;
+	width: 1500px;
+	display: flex;
+	flex-direction: column;
+	height: auto;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+#logotip{
+	width: 90px;
+	margin-top: 0%;
+	height: 90px;
+}
+#fonts-zagolovok{
+font-size: 60px;
+margin-top: 0%;
+}
+#main-fonts{
+	font-size: 60px;
+}
+#gorila1{
+	width: 600px;
+	margin-left: 450px;
+	margin-right: 450px;
+	height: auto;
+}
+#gorila2{
+	width: 600px;
+	height: 600px;
+	margin-right: 450px;
+	margin-left: 450px;
+	margin-top: 5%;
+}
+#strelka{
+	transform: rotate(calc(3turn + 45deg));
+	margin-top: 12%;
+	margin-left: 30%;
+	width: 500px;
+	height: 500px;
+}
+#fonts-zagolovok1{
+	font-size: 60px;
+	margin-top: 15%;
+}
+#strelka2{
+	width: 500px;
+	height: 500px;
+	margin-top: 12%;
+	margin-left: 30%;
+	transform: rotate(calc(3turn - 90deg));
+}
+#gorila3{
+	width: 600px;
+	height: 600px;
+	margin-right: 450px;
+	margin-left: 450px;
+	margin-top: 10%;
+}
+#fonts-zagolovok2{
+	font-size: 60px;
+	margin-top: 0%;
